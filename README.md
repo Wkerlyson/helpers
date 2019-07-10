@@ -1,2 +1,4 @@
 # helpers
-Projeto para documentar helpers, comandos e etc
+Project for documentation the helpers, comands, etc.
+
+https://github.com/Wkerlyson/helpers
